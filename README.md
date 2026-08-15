@@ -21,7 +21,7 @@
 
 </div>
 
----
+
 
 <table>
 <tr>
@@ -80,7 +80,7 @@ learn, contribute and grow as a **Data Analyst**.
 
 > Exploring backup health, storage costs, security risks & failure patterns.
 
----
+
 
 <div align="center">
 
