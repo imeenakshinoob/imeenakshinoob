@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**imeenakshinoob/imeenakshinoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# MEENAKSHI RAWAT
 
-Here are some ideas to get you started:
+### `exploring data • building things • figuring it out`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Exploring+Data+Analytics;Learning+Python+%26+SQL;Turning+Data+into+Stories;Building+Projects+Along+the+Way" alt="Typing SVG" />
+
+<br><br>
+
+`📊 DATA` &nbsp; `🐍 PYTHON` &nbsp; `🗄️ SQL` &nbsp; `🔎 EDA` &nbsp; `⚙️ ETL`
+
+</div>
