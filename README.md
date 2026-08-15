@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=650&lines=hi%2C+i'm+Meenakshi+%F0%9F%91%8B;exploring+the+world+of+data.;turning+curiosity+into+projects.;still+learning.+still+building." />
@@ -51,4 +51,4 @@
 <img src="https://komarev.com/ghpvc/?username=imeenakshinoob&label=curious+visitors&color=8A2BE2&style=flat" />
 
 </div>
-```
+
