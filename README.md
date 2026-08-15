@@ -5,9 +5,9 @@
 
 # MEENAKSHI RAWAT
 
-`BTECH IT` · `DATA EXPLORER` · `BUILDER`
+`BTECH IT` · `ASPIRING DATA ANALYST` · `BUILDER`
 
-<img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=15&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=550&height=35&lines=exploring+data+%E2%80%A2+building+things;learning+by+doing;curiosity+%3E+perfection" />
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=15&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&height=35&lines=learning+data+analytics;building+projects+with+data;turning+data+into+insights;open+to+data+analyst+internships" />
 
 <br>
 
@@ -25,28 +25,32 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 ### 👋 a little about me
 
-I'm **Meenakshi**, a BTech IT student exploring the data field.
+I'm **Meenakshi**, a BTech IT student currently learning **Data Analytics**.
 
-I learn by building — taking data, asking questions,
-finding patterns and seeing where the rabbit hole goes.
+I enjoy working with data, finding patterns, creating visualizations,
+and turning raw datasets into meaningful insights.
 
-> *still figuring it out. that's the fun part.*
+Currently building projects and looking for opportunities to
+learn, contribute and grow as a **Data Analyst**.
 
 </td>
 
-<td width="45%" align="center">
+<td width="42%" align="center">
 
 ```text
 ╭──────────────────╮
-│  ● CURIOUS       │
+│                  │
+│  DATA ANALYTICS  │
+│                  │
 │  ● LEARNING      │
 │  ● BUILDING      │
+│  ● GROWING       │
 │                  │
-│  2026 / DATA     │
+│  STATUS: OPEN    │
 ╰──────────────────╯
 ````
 
@@ -57,31 +61,38 @@ finding patterns and seeing where the rabbit hole goes.
 ### 🛠️ toolbox
 
 `Python` · `SQL` · `Excel`
+
 `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+
 `EDA` · `ETL` · `Data Analytics`
 
-### 🔎 currently
+### 📈 currently learning
 
-`learning SQL` → `building analytics projects` → `exploring ML`
+`Data Analytics` → `Data Visualization` → `SQL` → `Machine Learning`
 
 ---
 
-### 🧪 one thing I've been building
+### 🧪 recent work
 
 **📊 [Rubrik Backup Analytics](https://github.com/imeenakshinoob/rubrik_data_analytics_project)**
+
 `Python` · `SQL` · `Power BI` · `ML`
 
-> exploring backup health, storage costs, security & failure patterns.
+> Exploring backup health, storage costs, security risks & failure patterns.
 
 ---
 
 <div align="center">
 
-`data` → `questions` → `experiments` → `insights`
+`DATA` → `ANALYZE` → `VISUALIZE` → `INSIGHT`
 
 <br>
 
-**still learning · still building · still curious**
+**open to Data Analyst internships ✦**
+
+<br>
+
+<sub>learning by building · one project at a time</sub>
 
 </div>
 
