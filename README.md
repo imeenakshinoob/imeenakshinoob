@@ -1,29 +1,21 @@
-
+````markdown
 <div align="center">
 
+<br><br>
+
+# `MEENAKSHI`
+
+### RAWAT
+
+`IT STUDENT`  ·  `DATA EXPLORER`  ·  `BUILDER`
+
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&size=24&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Hi+Everyone; I'm+MEENAKSHI+RAWAT;exploring+data+%E2%80%A2+building+things;turning+curiosity+into+projects" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="85%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=17&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=somewhere+between+data+and+curiosity;learning+by+building;turning+questions+into+experiments" />
 
 <br><br>
 
-`✦` **DATA** &nbsp;&nbsp; `✦` **CURIOSITY** &nbsp;&nbsp; `✦` **EXPERIMENTS**
-
-<br><br>
-
-<a href="https://github.com/imeenakshinoob">
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-161616?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/meenakshirawat123">
-<img src="https://img.shields.io/badge/FIND_ME_ON_LINKEDIN-161616?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+`● ONLINE` &nbsp;&nbsp; `2026` &nbsp;&nbsp; `EXPLORING`
 
 <br><br>
 
@@ -33,28 +25,54 @@
 
 <div align="center">
 
-### `about me`
-
-**BTech IT student · exploring the data field · learning by building**
-
-<br>
-
-I like taking a dataset, asking questions, finding patterns,
-and seeing what I can turn it into.
-
-I'm currently exploring **Data Analytics** and documenting
-the things I learn along the way.
+`01` ───────────── `ABOUT` ───────────── `01`
 
 </div>
 
 <br>
 
+> **I don't really have it all figured out.**
+>
+> I'm a BTech IT student exploring the data field,
+> learning by building projects instead of just
+> collecting tutorials.
+>
+> Give me a dataset and a question,
+> and I'll probably start digging. 🔎
+
+<br>
+
 <div align="center">
 
-| `01` | `02` | `03` |
-|:---:|:---:|:---:|
-| 🔎 **EXPLORE** | 📊 **ANALYZE** | 🛠️ **BUILD** |
-| ask questions | find patterns | make something |
+`curiosity > perfection`
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+`02` ──────────── `CURRENTLY` ──────────── `02`
+
+<br><br>
+
+### ◌ exploring
+
+**PYTHON** &nbsp;&nbsp; **SQL** &nbsp;&nbsp; **EDA** &nbsp;&nbsp; **ETL**
+
+<br>
+
+### ◌ working with
+
+`Pandas` &nbsp; `NumPy` &nbsp; `Matplotlib` &nbsp; `Seaborn`
+
+<br>
+
+### ◌ also
+
+`Excel` &nbsp; `Data Analytics`
 
 </div>
 
@@ -64,54 +82,82 @@ the things I learn along the way.
 
 <div align="center">
 
-### `my toolbox`
-
-<br>
-
-🐍 **Python**  
-`Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
-
-🗄️ **SQL** &nbsp; · &nbsp; 📊 **Excel**
-
-🔎 **EDA** &nbsp; · &nbsp; ⚙️ **ETL** &nbsp; · &nbsp; 📈 **Data Analytics**
+`03` ──────────── `THE LAB` ──────────── `03`
 
 </div>
 
 <br>
 
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<div align="center">
+### `01`
 
-### `currently`
+## RUBRIK
+### BACKUP ANALYTICS
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=550&height=45&lines=learning+more+about+data+analytics;getting+better+at+SQL;building+real-world+projects;exploring+machine+learning;figuring+out+what+comes+next" />
+`DATA ANALYTICS`  
+`PYTHON` · `SQL` · `POWER BI` · `ML`
 
-</div>
-
-<br>
-
-<div align="center">
-
-### `a few things i've built`
+An attempt to understand backup
+health, storage costs, security risks
+and failure patterns.
 
 <br>
 
 <a href="https://github.com/imeenakshinoob/rubrik_data_analytics_project">
-<img src="https://img.shields.io/badge/%F0%9F%93%8A_RUBRIK_DATA_ANALYTICS-171717?style=for-the-badge"/>
+
+**↗ open experiment**
+
 </a>
+
+</td>
+
+<td width="40%" align="center">
+
+```text
+   DATA IN
+
+    ↓ ↓ ↓
+
+  QUESTIONS
+
+    ↓ ↓ ↓
+
+   PATTERNS
+
+    ↓ ↓ ↓
+
+  INSIGHTS
+
+    ↓ ↓ ↓
+
+  SOMETHING
+  USEFUL
+````
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+`04` ───────────── `SIGNAL` ───────────── `04`
 
 <br><br>
 
-<a href="https://github.com/imeenakshinoob/Local-demo">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90_LOCAL_DEMO-171717?style=for-the-badge"/>
-</a>
+```text
+     ▁▃▅▃▇▆▃▅▇▃▆▂▅▇▃▅▆▃▇▂
+   ▃▅▇▃▆▂▅▇▃▅▆▂▇▃▅▃▆▇▂▅
+ ▁▃▆▇▃▅▇▂▆▃▇▅▂▆▇▃▅▇▂▃▆
+```
 
-<br><br>
-
-<a href="https://github.com/imeenakshinoob/new-repo">
-<img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_MORE_EXPERIMENTS-171717?style=for-the-badge"/>
-</a>
+`learning` ─── `experimenting` ─── `building`
 
 </div>
 
@@ -121,15 +167,32 @@ the things I learn along the way.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imeenakshinoob&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=9CA3AF&icon_color=A78BFA&include_all_commits=true" />
+`05` ─────────── `FIND ME ELSEWHERE` ─────────── `05`
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imeenakshinoob&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=777777" />
+<a href="https://www.linkedin.com/in/meenakshirawat123">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://github.com/imeenakshinoob">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br><br>
 
-<sub>✦ still learning · still building · still curious ✦</sub>
+<sub>
+
+currently somewhere between
+**curiosity → data → code → whatever comes next**
+
+</sub>
+
+<br><br>
+
+`✦`
 
 </div>
-
+```
