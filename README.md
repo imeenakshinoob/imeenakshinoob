@@ -13,7 +13,6 @@
 `📊 DATA` &nbsp; `🐍 PYTHON` &nbsp; `🗄️ SQL` &nbsp; `🔎 EDA` &nbsp; `⚙️ ETL`
 
 </div>
----
 
 ## 👋 a little about me
 
