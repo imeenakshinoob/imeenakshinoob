@@ -44,3 +44,28 @@
 │  > and enjoying the process 🌱                       │
 │                                                      │
 └──────────────────────────────────────────────────────┘
+<div align="center">
+
+### `04 / LIVE FEED`
+
+</div>
+
+```text
+┌─ MEENAKSHI@DATA-LAB ───────────────────────────────┐
+│                                                    │
+│  > scanning datasets...             [██████████]   │
+│  > finding patterns...              [████████░░]   │
+│  > learning SQL...                  [███████░░░]   │
+│  > building dashboards...           [██████░░░░]   │
+│  > experimenting with ML...         [████░░░░░░]   │
+│                                                    │
+│  ───────────────────────────────────────────────   │
+│                                                    │
+│  CURRENT THOUGHT                                  │
+│  "what can I actually discover from this data?"   │
+│                                                    │
+│  STATUS: curious                                  │
+│  MODE:   building                                 │
+│  NEXT:   learn → experiment → build → repeat      │
+│                                                    │
+└────────────────────────────────────────────────────┘
