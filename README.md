@@ -1,31 +1,46 @@
 <div align="center">
 
-# MEENAKSHI RAWAT
-
-### `exploring data • building things • figuring it out`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:191919,100:303030&height=220&section=header&text=MEENAKSHI%20RAWAT&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=exploring%20data%20%7C%20building%20things%20%7C%20figuring%20it%20out&descAlignY=62&descSize=16" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Exploring+Data+Analytics;Learning+Python+%26+SQL;Turning+Data+into+Stories;Building+Projects+Along+the+Way" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=%3E+initializing+meenakshi.exe...;%3E+loading+curiosity...;%3E+exploring+data+analytics;%3E+turning+data+into+stories;%3E+building+%26+learning+along+the+way..." />
 
 <br><br>
 
-`📊 DATA` &nbsp; `🐍 PYTHON` &nbsp; `🗄️ SQL` &nbsp; `🔎 EDA` &nbsp; `⚙️ ETL`
+`[ SYSTEM ONLINE ]` &nbsp;&nbsp; `[ DATA MODE: ON ]` &nbsp;&nbsp; `[ STATUS: LEARNING ]`
 
 </div>
 
-## 👋 a little about me
+<br>
 
-I'm a BTech IT student currently exploring the **data field**.
+---
 
-I learn best by building things — working with datasets, asking questions,
-trying to find patterns, making mistakes, fixing them, and turning what I
-learn into something tangible.
+<div align="center">
 
-Right now, I'm exploring **Data Analytics** and learning how to turn raw
-data into insights that actually mean something.
+### `01 / WHO AM I?`
 
-I'm still figuring out where this journey takes me — and honestly,
-that's the fun part. 🌱
+</div>
 
-> *learning by doing, one dataset at a time.*
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  $ whoami                                            │
+│                                                      │
+│  > Meenakshi Rawat                                   │
+│  > BTech IT student                                  │
+│  > currently exploring the data field                │
+│                                                      │
+│  $ current_mission                                   │
+│                                                      │
+│  > learn by building                                 │
+│  > work with real datasets                           │
+│  > find patterns                                     │
+│  > turn data into something meaningful               │
+│                                                      │
+│  $ status                                             │
+│                                                      │
+│  > still figuring it out...                          │
+│  > and enjoying the process 🌱                       │
+│                                                      │
+└──────────────────────────────────────────────────────┘
