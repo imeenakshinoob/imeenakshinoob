@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&size=24&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=MEENAKSHI+RAWAT;exploring+data+%E2%80%A2+building+things;turning+curiosity+into+projects" />
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&size=24&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Hi+Everyone; I'm+MEENAKSHI+RAWAT;exploring+data+%E2%80%A2+building+things;turning+curiosity+into+projects" />
 
 <br>
 
