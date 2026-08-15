@@ -13,3 +13,20 @@
 `📊 DATA` &nbsp; `🐍 PYTHON` &nbsp; `🗄️ SQL` &nbsp; `🔎 EDA` &nbsp; `⚙️ ETL`
 
 </div>
+---
+
+## 👋 a little about me
+
+I'm a BTech IT student currently exploring the **data field**.
+
+I learn best by building things — working with datasets, asking questions,
+trying to find patterns, making mistakes, fixing them, and turning what I
+learn into something tangible.
+
+Right now, I'm exploring **Data Analytics** and learning how to turn raw
+data into insights that actually mean something.
+
+I'm still figuring out where this journey takes me — and honestly,
+that's the fun part. 🌱
+
+> *learning by doing, one dataset at a time.*
