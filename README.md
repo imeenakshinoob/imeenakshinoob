@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <br>
@@ -180,4 +180,4 @@ I want to see what I can create with it.**
 <sub>© 2026 — still figuring it out.</sub>
 
 </div>
-```
+
