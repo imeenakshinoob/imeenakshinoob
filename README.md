@@ -1,71 +1,54 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:191919,100:303030&height=220&section=header&text=MEENAKSHI%20RAWAT&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=exploring%20data%20%7C%20building%20things%20%7C%20figuring%20it%20out&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=650&lines=hi%2C+i'm+Meenakshi+%F0%9F%91%8B;exploring+the+world+of+data.;turning+curiosity+into+projects.;still+learning.+still+building." />
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=%3E+initializing+meenakshi.exe...;%3E+loading+curiosity...;%3E+exploring+data+analytics;%3E+turning+data+into+stories;%3E+building+%26+learning+along+the+way..." />
-
-<br><br>
-
-`[ SYSTEM ONLINE ]` &nbsp;&nbsp; `[ DATA MODE: ON ]` &nbsp;&nbsp; `[ STATUS: LEARNING ]`
+<a href="https://www.linkedin.com/in/meenakshirawat123">
+  <img src="https://img.shields.io/badge/let's_connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
-<br>
-
----
-
-<div align="center">
-
-### `01 / WHO AM I?`
-
-</div>
+<br/>
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  $ whoami                                            │
-│                                                      │
-│  > Meenakshi Rawat                                   │
-│  > BTech IT student                                  │
-│  > currently exploring the data field                │
-│                                                      │
-│  $ current_mission                                   │
-│                                                      │
-│  > learn by building                                 │
-│  > work with real datasets                           │
-│  > find patterns                                     │
-│  > turn data into something meaningful               │
-│                                                      │
-│  $ status                                             │
-│                                                      │
-│  > still figuring it out...                          │
-│  > and enjoying the process 🌱                       │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+┌──( meenakshi@github )─────────────────────┐
+│                                           │
+│  currently exploring:  DATA               │
+│                                           │
+│  🐍 Python  ·  🗄️ SQL  ·  📊 Excel        │
+│  🐼 Pandas  ·  🔢 NumPy                   │
+│  📈 Matplotlib  ·  🌊 Seaborn             │
+│                                           │
+│  + EDA · ETL · Data Visualization         │
+│                                           │
+└───────────────────────────────────────────┘
+````
+
 <div align="center">
 
-### `04 / LIVE FEED`
+### `what's going on here?`
+
+🧠 learning by building
+📊 asking questions to messy data
+🔍 looking for patterns
+🛠️ turning experiments into projects
+
+<br/>
+
+> *"still figuring it out — that's the interesting part."*
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=imeenakshinoob&show_icons=true&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2" />
+
+<br/>
+
+### ↓ currently somewhere between curiosity & code ↓
+
+<img src="https://komarev.com/ghpvc/?username=imeenakshinoob&label=curious+visitors&color=8A2BE2&style=flat" />
 
 </div>
-
-```text
-┌─ MEENAKSHI@DATA-LAB ───────────────────────────────┐
-│                                                    │
-│  > scanning datasets...             [██████████]   │
-│  > finding patterns...              [████████░░]   │
-│  > learning SQL...                  [███████░░░]   │
-│  > building dashboards...           [██████░░░░]   │
-│  > experimenting with ML...         [████░░░░░░]   │
-│                                                    │
-│  ───────────────────────────────────────────────   │
-│                                                    │
-│  CURRENT THOUGHT                                  │
-│  "what can I actually discover from this data?"   │
-│                                                    │
-│  STATUS: curious                                  │
-│  MODE:   building                                 │
-│  NEXT:   learn → experiment → build → repeat      │
-│                                                    │
-└────────────────────────────────────────────────────┘
+```
